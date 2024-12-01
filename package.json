@@ -1,0 +1,27 @@
+{
+  "name": "desafio2noderepertorio",
+  "version": "1.0.0",
+  "description": "Desafio Node Repertorio",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfmtucci/Desafio2NodeRepertorio.git"
+  },
+  "author": "Jorge Medina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jfmtucci/Desafio2NodeRepertorio/issues"
+  },
+  "homepage": "https://github.com/jfmtucci/Desafio2NodeRepertorio#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
